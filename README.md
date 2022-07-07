@@ -4,7 +4,7 @@
   <h3>💻Lim Yeon Woo💻</h3>
   deardus00@ewhain.net 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-YeonWoo&show_icons=true&theme=vue)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-YeonWoo&show_icons=true&theme=rose-pine)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim-YeonWoo&layout=compact)](https://github.com/Lim-YeonWoo/github-readme-stats)
 
