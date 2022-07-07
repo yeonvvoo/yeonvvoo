@@ -3,8 +3,6 @@
 <div align = "center">
     <h4> 📧 deardus00@ewhain.net</h4>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lim-YeonWoo&layout=compact)](https://github.com/Lim-YeonWoo/github-readme-stats)
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lim-YeonWoo&show_icons=true&theme=rose_pine)
 
 
