@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
   <br/>
   <img src="https://img.shields.io/badge/MySQL-3766AB?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
   <br/>
 </div>
 
@@ -48,17 +48,8 @@
 <li> 카이스트 전산학부 vclab intern <sub>(2023.01.~2023.02)</sub></li>
 
 <br/>
-<li> <a href="https://github.com/2022-SiliconValleyInternship-team-G/CarryCARI-BE-AI">CarryCari</a> <sub>(2022.06 ~ 2022.07)</sub></li>
- 생성AI를 이용한 표정변화 캐리커쳐 생성 모바일 웹<br/>
- <b>StyleClip</b> : generate a face image that changes facial expression of the input image<br/>
- <b>StyleCariGAN</b> : generate caricature from input image<br/>
-
-<br/>
-<li> <a href="https://github.com/JeongHyoYeon">CapstoneDesignProject</a> <sub>(2022.09 ~ 2023.06)</sub></li>
-  얼굴인식AI와 객체인식AI를 이용해 폴더를 분류하는 사진 공유용 모바일 웹</br>
- <b>MTCNN</b> : face detection model<br/>
- <b>ArcFace</b> : face embedding with backbone model using ArcFace LossFunction<br/>
- <b>YOLOv5</b> : scene classification & object detection<br/>
+<li> <a href="https://github.com/2022-SiliconValleyInternship-team-G/CarryCARI-BE-AI">CarryCari</a> : <b>StyleClip, StyleCariGAN</b> <sub>(2022.06 ~ 2022.07)</sub></li>
+<li> <a href="https://github.com/JeongHyoYeon">CapstoneDesignProject</a> : <b>MTCNN, ArcFace, Yolov5</b> <sub>(2023.01 ~ 2023.06)</sub></li>
 
 <br/>
 <br/>
