@@ -1,5 +1,5 @@
 <h1> 
-  Lim Yeon Woo | 임연우 
+  Yeon Woo Lim | 임연우 
 </h1>
 <li> <b>Undergraduate Student</b> @ <a href="http://cse.ewha.ac.kr/">Computer Science, Ewha Unversity</a> </li>
 <li> <b>Contact:</b> <a href="deardus00@ewhain.net">deardus00@ewhain.net</a> </li>
