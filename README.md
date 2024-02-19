@@ -1,9 +1,9 @@
 <h1> 
   Yeon Woo Lim | 임연우 
 </h1>
-<li> <b>Undergraduate Student</b> @ <a href="http://cse.ewha.ac.kr/">Computer Science, Ewha Unversity</a> </li>
-<li> <b>Contact:</b> <a href="deardus00@ewhain.net">deardus00@ewhain.net</a> </li>
-<li> <b>Blog:</b> https://deardus00.tistory.com/ </li>
+<li> <b>MS Student</b> @ <a href="https://cs.kaist.ac.kr/">Visual Computing Laboratory</a>, <a href="https://cs.kaist.ac.kr/">School of Computing, KAIST</a> </li>
+<li> <b>BS</b> @ <a href="http://cse.ewha.ac.kr/">Computer Science Engineering, Ewha Unversity</a> </li>
+<li> <b>Contact:</b> <a href="yeonwlim@gmail.com">yeonwlim@gmail.com</a> </li>
    
 <br/> 
 <h2>
