@@ -6,10 +6,10 @@
 <li> <b>Contact:</b> <a href="yeonwlim@gmail.com">yeonwlim@gmail.com</a> </li>
 
 <br/>
-<li> <a href="https://github.com/2022-SiliconValleyInternship-team-G/CarryCARI-BE-AI">CarryCari</a> : <b>StyleClip, StyleCariGAN</b> <sub>(2022.06 ~ 2022.07)</sub></li>
 <li> <a href="https://github.com/JeongHyoYeon">CapstoneDesignProject</a> : <b>MTCNN, ArcFace, Yolov5</b> <sub>(2023.01 ~ 2023.06)</sub></li>
-
+<li> <a href="https://github.com/2022-SiliconValleyInternship-team-G/CarryCARI-BE-AI">CarryCari</a> : <b>StyleClip, StyleCariGAN</b> <sub>(2022.06 ~ 2022.07)</sub></li>
 <br/> 
+
 <h2>
   ☑️Skills
 </h2>
