@@ -1,18 +1,9 @@
 <h1> 
-  Yeon Woo Lim | 임연우 
+  Yeonwoo Lim | 임연우 
 </h1>
 <li> <b>MS Student</b> @ <a href="https://cs.kaist.ac.kr/">Visual Computing Laboratory</a>, <a href="https://cs.kaist.ac.kr/">School of Computing, KAIST</a> </li>
 <li> <b>BS</b> @ <a href="http://cse.ewha.ac.kr/">Computer Science Engineering, Ewha Unversity</a> </li>
 <li> <b>Contact:</b> <a href="yeonwlim@gmail.com">yeonwlim@gmail.com</a> </li>
-   
-<br/> 
-<h2>
-  😶History
-</h2>
-<li> 이화여자대학교 소프트웨어학부 컴퓨터공학과 <sub>(2020.03 ~ )</sub></li>
-<li> 이화여자대학교 Algorithm 스터디 동아리 EwahDOCoding EDOC <sub>(2021.06 ~ 2022.06)</sub></li>
-<li> 이화여자대학교 AI 스터디 동아리 Euron <sub>(2022.10 ~ 2023.02)</sub></li>
-<li> 카이스트 전산학부 VCLab intern <sub>(2023.01.~2023.02)</sub> <sub>(2023.07.~2023.08)</sub> </li>
 
 <br/>
 <li> <a href="https://github.com/2022-SiliconValleyInternship-team-G/CarryCARI-BE-AI">CarryCari</a> : <b>StyleClip, StyleCariGAN</b> <sub>(2022.06 ~ 2022.07)</sub></li>
@@ -20,7 +11,7 @@
 
 <br/> 
 <h2>
-  😶Skills
+  ☑️Skills
 </h2>
 <h4>
   Visual Computing 
