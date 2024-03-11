@@ -52,8 +52,3 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> 
   <br/>
 </div>
-
-<br/>
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonvvoo&show_icons=true&theme=github_dark)
